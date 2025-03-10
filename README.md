@@ -85,6 +85,7 @@
 - 🔐 Zod (Schema validation)
 - 📝 React Hook Form (Form handling)
 - 🎞️ Framer Motion (Animations)
+- 🎞️GSAP {Green Shocks} (Animations)
 - 📊 TanStack Table (Advanced Table UI)
 
 ---
